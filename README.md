@@ -13,30 +13,6 @@ This app is for exploring the [Activity Lifecycle callback methods](https://deve
 
 ![Screenshot1](screenshots/screen0.png) ![Screenshot1](screenshots/screen1.png) ![Screenshot1](screenshots/screen2.png)
 
-## How to use this repo while taking the course
-
-
-Each code repository in this class has a chain of commits that looks like this:
-
-![listofcommits](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe2e_listofcommits/listofcommits.png)
-
-These commits show every step you'll take to create the app. Each commit contains instructions for completing the that step.
-
-Each commit also has a **branch** associated with it of the same name as the commit message, seen below:
-
-![branches](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590390fe_branches-ud855/branches-ud855.png
-)
-Access all branches from this tab
-
-![listofbranches](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe76_listofbranches/listofbranches.png
-)
-
-
-![branchesdropdown](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590391a3_branches-dropdown-ud855/branches-dropdown-ud855.png
-)
-
-The branches are also accessible from the drop-down in the "Code" tab
-
 
 ## Working with the Course Code
 
@@ -94,13 +70,4 @@ Most exercises will have a list of steps for you to check off in the classroom. 
 ![solutionwindow](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf00f9_solutionwindow/solutionwindow.png
 )
 
-The **Diff** link will take you to a Github diff as seen below:
-![diff](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf0108_diffsceenshot/diffsceenshot.png
-)
 
-All of the code that was added in the solution is in green, and the removed code (which will usually be the TODO comments) is in red. 
-
-You can also compare your code locally with the branch of the following step.
-
-## Report Issues
-Notice any issues with a repository? Please file a [github issue](https://github.com/udacity/andfun-kotlin-dessert-pusher/issues) in this repository.
