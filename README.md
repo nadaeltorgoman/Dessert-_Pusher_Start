@@ -33,7 +33,7 @@ The basic steps are:
 As you go through the course, you'll be instructed to clone the different exercise repositories, so you don't need to set these up now. You can clone a repository from github in a folder of your choice with the command:
 
 ```bash
-git clone https://github.com/udacity/REPOSITORY_NAME.git
+git clone https://github.com/nadaeltorgoman/Dessert-_Pusher_Start.git
 ```
 
 **Step 2: Checkout the step branch**
